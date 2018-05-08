@@ -4,7 +4,7 @@ This repo provides some extra scripts for using [ffmpeg-normalize](https://githu
 
 The scripts are:
 - `manual.sh` - A script to manually process a file with `ffmpeg-normalize`, using a static temp dir.
-- `sickbeard_mp4_automator-postprocess.sh` - A [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) post-process script to call ffmpeg-normalize on the output file(s).
+- `sickbeard_mp4_automator-postprocess.sh` - A sickbeard_mp4_automator post-process script to call ffmpeg-normalize on the output file(s).
 
 ## Contributions
 
